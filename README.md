@@ -8,6 +8,7 @@ http://sipi.usc.edu/database/
 
 http://deeplearning.net/datasets/
 
+https://blog.statsbot.co/datascience/home   --- important blog like medium
 
 
 
