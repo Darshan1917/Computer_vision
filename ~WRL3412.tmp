@@ -34,12 +34,7 @@ https://opencv.org/books.html
 https://github.com/timzhang642/3D-Machine-Learning
 http://graphics.stanford.edu/courses/cs468-17-spring/RelatedMaterial/gms-srl07.pdf
 https://www.cs.princeton.edu/courses/archive/fall10/cos526/syllabus.php
-https://pypi.python.org/pypi?%3Aaction=search&term=volumetric
-https://www.packtpub.com/mapt/book/application_development/9781785283932/1/ch01lvl1sec08/installing-opencv-python
-
 conda install -c anaconda boost
-conda install -c anaconda cmake
-conda install -c conda-forge dlib=19.4
 conda install -c menpo dlib 
 Boost	1.47	
 OpenCV	3.0	
