@@ -30,6 +30,11 @@ http://zums.ac.ir/files/research/site/ebooks/Robotics/Robot%20Vision.pdf  ---- â
 https://opencv.org/books.html
 
 
+Git source (everything):
+
+https://github.com/jbhuang0604/awesome-computer-vision#courses
+
+
 3-D image reconstruction
 https://github.com/timzhang642/3D-Machine-Learning
 http://graphics.stanford.edu/courses/cs468-17-spring/RelatedMaterial/gms-srl07.pdf
