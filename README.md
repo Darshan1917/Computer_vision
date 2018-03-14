@@ -60,3 +60,9 @@ Git links :
 https://github.com/SJTUqizhenlin/Construct3DPoints/tree/master/DbEyesConstruct
 https://github.com/prateekroy/Computer-Vision
 
+Stanford links:
+
+ https://github.com/bruceoutdoors/CS231n
+ 
+ http://cs231n.github.io/
+
