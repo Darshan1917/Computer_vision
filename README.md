@@ -65,4 +65,6 @@ Stanford links:
  https://github.com/bruceoutdoors/CS231n
  
  http://cs231n.github.io/
+ 
+ http://cs231n.stanford.edu/reports.html
 
