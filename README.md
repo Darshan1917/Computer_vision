@@ -67,4 +67,6 @@ Stanford links:
  http://cs231n.github.io/
  
  http://cs231n.stanford.edu/reports.html
+ 
+ https://github.com/cs231n/cs231n.github.io/tree/master/assignments
 
