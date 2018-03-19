@@ -16,14 +16,16 @@ cv2.IMREAD_UNCHANGED : Loads image as such including alpha channel
  1, 0 or -1 - numerical represnetation of above explained 
 '''
 
-img = cv2.imread('dhoni.jpg',0)
+img = cv2.imread('basketball.jpg')
 #img = cv2.imread('dhoni.jpg',1)
 #img = cv2.imread('dhoni.jpg',-1)
 cv2.namedWindow('image', cv2.WINDOW_AUTOSIZE)
 cv2.imshow('image',img)
-plt.imshow(img, cmap = 'gray', interpolation = 'bicubic')
-cv2.imwrite('dhoni_gray.png',img)
 
+#plt.imshow(img, cmap = 'gray', interpolation = 'bicubic')
+cv2.imwrite('dhoni_gray.png',img)
+blue = img[100,100,0]  # total number of blue pixel
+print(blue)
 edges = cv2.Canny(img,100,200)
 cv2.imshow('image',edges)
 
