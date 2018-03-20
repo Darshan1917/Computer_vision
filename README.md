@@ -70,3 +70,7 @@ Stanford links:
  
  https://github.com/cs231n/cs231n.github.io/tree/master/assignments
 
+
+
+
+raf link - https://lync.capgemini.com/capgemini.com/meet/rafeeq.ahamed/BSBDXQSM
