@@ -74,3 +74,4 @@ Stanford links:
 
 
 raf link - https://lync.capgemini.com/capgemini.com/meet/rafeeq.ahamed/BSBDXQSM
+India Office 6627/6626, India (Non Toll Free) - 18602660132, +912261875017, US - +17038652981, Conference ID: 60588018
